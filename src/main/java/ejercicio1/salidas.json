@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Pepe",
+    "dni": "234325Q",
+    "telefono": 667874576
+  },
+  {
+    "nombre": "Juana",
+    "dni": "12361791X",
+    "telefono": 66534566
+  },
+  {
+    "nombre": "Mateo",
+    "dni": "234325Q",
+    "telefono": 123490812
+  },
+  {
+    "nombre": "Lucas",
+    "dni": "345631234I",
+    "telefono": 12316567
+  },
+  {
+    "nombre": "Marcos",
+    "dni": "34353425Q",
+    "telefono": 88899234
+  },
+  {
+    "nombre": "Juan",
+    "dni": "2346525Q",
+    "telefono": 23444442
+  }
+]
