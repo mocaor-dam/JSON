@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Juan",
+    "curso": "2025",
+    "notaMedia": 5.0
+  },
+  {
+    "nombre": "Mateo",
+    "curso": "2024",
+    "notaMedia": 7.0
+  },
+  {
+    "nombre": "Lucas",
+    "curso": "2026",
+    "notaMedia": 9.0
+  }
+]
